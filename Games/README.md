@@ -2,6 +2,6 @@ These are basic command line games written for my java programming final project
 
 Higher or lower: 
 Simple game where users have to guess if the next card is higher or lower than the current card.  The aim of the game is to get the most correct answers.  Once the user is out of lives the game ends and the score is added to the leaderboard.  
-
+ 
 Blackjack:  
 This is a simplified version of blackjack where there is no betting, the user just has to get a better score than the dealer to earn a point.  After the user goes bust for a third time, their total wins is added to the leaderboard.  

@@ -3,10 +3,10 @@ Write a program that prompts the user to enter an investment amount and an annua
 interest rate, and prints a table that displays future value for the years from 1 to 30. 
 
 Question 2: 
-Write a method that checks whether a string is a valid password. Suppose the password rules are as follows:
- A password must have at least two character.
- A password consists of only letters and digits.
- A password must contain at least three digits.
+Write a method that checks whether a string is a valid password. Suppose the password rules are as follows: 
+- A password must have at least two character. 
+- A password consists of only letters and digits.
+- A password must contain at least three digits.
 
 Question 3: 
 Write a program that reads in a string representing a series of results of a sports team, where ’W’
